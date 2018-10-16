@@ -1,6 +1,6 @@
 # SpectralCodes
 
-A collection of codes (in MATLAB & Fortran 77), and examples, for solving reaction-diffusion equations in one and two space dimensions. In areas of the mathematical community spectral methods are used to remove the stiffness associated with the diffusive terms in a reaction-diffusion model allowing explicit high order timestepping to be used. This is particularly valuable for two (and higher) space dimension problems.
+A collection of codes (in MATLAB & Fortran 77), and examples, for solving reaction-diffusion equations in one and two space dimensions. In areas of the mathematical community integrating factors together with spectral methods are used to remove the stiffness associated with the diffusive terms in a reaction-diffusion model allowing explicit high order timestepping to be used. This is particularly valuable for two (and higher) space dimension problems.
 
 For a description of the codes please refer to the technical report: 
 R. V. Craster and R. Sassi, *Spectral algorithms for reaction-diffusion equations*, Technical Report, Note del Polo – Ricerca N.99, Università di Milano, 2006. Handle:[`2434/24276`](http://hdl.handle.net/2434/24276). 
