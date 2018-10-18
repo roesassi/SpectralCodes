@@ -99,3 +99,25 @@ The code were initially developed in 2003-2004 by:
 
 See also the list of [contributors](https://github.com/roesassi/SpectralCodes/contributors) who participated in this project.
 
+## Cited by
+
+To the best of our knowledge, the following is an (incomplete) list of the scientific works which employed the codes:
+
+* K.M. Owolabi and K.C. Patidar, *Effect of spatial configuration of an extended nonlinear Kierstead–Slobodkin reaction-transport model with adaptive numerical scheme*, (2016) SpringerPlus, 5 (1), art. no. 303. [DOI: 10.1186/s40064-016-1941-y](http://dx.doi.org/10.1186/s40064-016-1941-y)
+
+* K.M. Owolabi and K.C. Patidar, *Solution of pattern waves for diffusive fisher-like non-linear equations with adaptive methods*, (2016) International Journal of Nonlinear Sciences and Numerical Simulation, 17 (6), pp. 291-304. [DOI: 10.1515/ijnsns-2015-0173](http://dx.doi.org/10.1515/ijnsns-2015-0173)
+
+* K.M. Owolabi and K.C. Patidar, *Higher-order time-stepping methods for time-dependent reaction-diffusion equations arising in biology*, (2014) Applied Mathematics and Computation, 240, pp. 30-50. [DOI: 10.1016/j.amc.2014.04.055](http://dx.doi.org/10.1016/j.amc.2014.04.055)
+
+* K.M. Owolabi and K.C. Patidar, *Numerical solution of singular patterns in one-dimensional Gray-Scott-like models*, (2014) International Journal of Nonlinear Sciences and Numerical Simulation, 15 (7-8), pp. 437-462. [DOI: 10.1515/ijnsns-2013-0124](http://dx.doi.org/10.1515/ijnsns-2013-0124)
+
+* M.A. Dahlem and T.M. Isele, *Transient localized wave patterns and their application to migraine*, (2013) Journal of Mathematical Neuroscience, 3 (1), pp. 1-28. [DOI: 10.1186/2190-8567-3-7](http://dx.doi.org/10.1186/2190-8567-3-7)
+
+* R.M. Bradley and P.D. Shipman, *A surface layer of altered composition can play a key role in nanoscale pattern formation induced by ion bombardment*, (2012) Applied Surface Science, 258 (9), pp. 4161-4170. [DOI: 10.1016/j.apsusc.2011.07.003](http://dx.doi.org/10.1016/j.apsusc.2011.07.003)
+
+* R. Carlson, *Harmonic analysis for star graphs and the spherical coordinate trapezoidal rule*, (2011) Journal of Computational and Applied Mathematics, 235 (8), pp. 2077-2089. [DOI: 10.1016/j.cam.2010.10.006](http://dx.doi.org/10.1016/j.cam.2010.10.006)
+
+* N. Apreutesei and G. Dimitriu, *On a prey-predator reaction-diffusion system with Holling type III functional response*, (2010) Journal of Computational and Applied Mathematics, 235 (2), pp. 366-379. [DOI: 10.1016/j.cam.2010.05.040](http://dx.doi.org/10.1016/j.cam.2010.05.040)
+
+
+
