@@ -101,25 +101,30 @@ See also the list of [contributors](https://github.com/roesassi/SpectralCodes/co
 
 ## Cited by
 
-To the best of our knowledge, the following is an (incomplete) list of the scientific works which employed the codes:
+The following is an (incomplete) list of the scientific works which employed the codes. A more complete is provided by [Google Scholar](https://scholar.google.com/scholar_lookup?title=Spectral%20algorithms%20for%20reaction-diffusion%20equations&author=RV.%20Craster&author=R.%20Sassi&publication_year=2006).
 
-* K.M. Owolabi and K.C. Patidar, *Effect of spatial configuration of an extended nonlinear Kierstead–Slobodkin reaction-transport model with adaptive numerical scheme*, (2016) SpringerPlus, 5 (1), art. no. 303. [DOI: 10.1186/s40064-016-1941-y](http://dx.doi.org/10.1186/s40064-016-1941-y)
+* F.C. Motta, R. Neville, P.D. Shipman, D.A. Pearson, R.M. Bradley, *Measures of order for nearly hexagonal lattices*,
+(2018) Physica D: Nonlinear Phenomena, 380-381, pp. 17-30. [DOI: 10.1016/j.physd.2018.05.005](https://doi.org/10.1016/j.physd.2018.05.005)
 
-* K.M. Owolabi and K.C. Patidar, *Solution of pattern waves for diffusive fisher-like non-linear equations with adaptive methods*, (2016) International Journal of Nonlinear Sciences and Numerical Simulation, 17 (6), pp. 291-304. [DOI: 10.1515/ijnsns-2015-0173](http://dx.doi.org/10.1515/ijnsns-2015-0173)
+* A.T. Onarcan, N. Adar, I. Dag, *Trigonometric cubic B-spline collocation algorithm for numerical solutions of reaction–diffusion equation systems*, Computational and Applied Mathematics (2018), pp. 1-22. [DOI: 10.1007/s40314-018-0713-4](https://doi.org/10.1007/s40314-018-0713-4)
 
-* C. Bachmair and E. Schöll, *Nonlocal control of pulse propagation in excitable media*, The European Physical Journal B (2014) 87: 276. [DOI: 10.1140/epjb/e2014-50339-2](http://doi.org/10.1140/epjb/e2014-50339-2)
+* K.M. Owolabi and K.C. Patidar, *Effect of spatial configuration of an extended nonlinear Kierstead–Slobodkin reaction-transport model with adaptive numerical scheme*, (2016) SpringerPlus, 5 (1), art. no. 303. [DOI: 10.1186/s40064-016-1941-y](https://doi.org/10.1186/s40064-016-1941-y)
 
-* K.M. Owolabi and K.C. Patidar, *Higher-order time-stepping methods for time-dependent reaction-diffusion equations arising in biology*, (2014) Applied Mathematics and Computation, 240, pp. 30-50. [DOI: 10.1016/j.amc.2014.04.055](http://dx.doi.org/10.1016/j.amc.2014.04.055)
+* K.M. Owolabi and K.C. Patidar, *Solution of pattern waves for diffusive fisher-like non-linear equations with adaptive methods*, (2016) International Journal of Nonlinear Sciences and Numerical Simulation, 17 (6), pp. 291-304. [DOI: 10.1515/ijnsns-2015-0173](https://doi.org/10.1515/ijnsns-2015-0173)
 
-* K.M. Owolabi and K.C. Patidar, *Numerical solution of singular patterns in one-dimensional Gray-Scott-like models*, (2014) International Journal of Nonlinear Sciences and Numerical Simulation, 15 (7-8), pp. 437-462. [DOI: 10.1515/ijnsns-2013-0124](http://dx.doi.org/10.1515/ijnsns-2013-0124)
+* C. Bachmair and E. Schöll, *Nonlocal control of pulse propagation in excitable media*, The European Physical Journal B (2014) 87: 276. [DOI: 10.1140/epjb/e2014-50339-2](https://doi.org/10.1140/epjb/e2014-50339-2)
 
-* M.A. Dahlem and T.M. Isele, *Transient localized wave patterns and their application to migraine*, (2013) Journal of Mathematical Neuroscience, 3 (1), pp. 1-28. [DOI: 10.1186/2190-8567-3-7](http://dx.doi.org/10.1186/2190-8567-3-7)
+* K.M. Owolabi and K.C. Patidar, *Higher-order time-stepping methods for time-dependent reaction-diffusion equations arising in biology*, (2014) Applied Mathematics and Computation, 240, pp. 30-50. [DOI: 10.1016/j.amc.2014.04.055](https://doi.org/10.1016/j.amc.2014.04.055)
 
-* R.M. Bradley and P.D. Shipman, *A surface layer of altered composition can play a key role in nanoscale pattern formation induced by ion bombardment*, (2012) Applied Surface Science, 258 (9), pp. 4161-4170. [DOI: 10.1016/j.apsusc.2011.07.003](http://dx.doi.org/10.1016/j.apsusc.2011.07.003)
+* K.M. Owolabi and K.C. Patidar, *Numerical solution of singular patterns in one-dimensional Gray-Scott-like models*, (2014) International Journal of Nonlinear Sciences and Numerical Simulation, 15 (7-8), pp. 437-462. [DOI: 10.1515/ijnsns-2013-0124](https://doi.org/10.1515/ijnsns-2013-0124)
 
-* R. Carlson, *Harmonic analysis for star graphs and the spherical coordinate trapezoidal rule*, (2011) Journal of Computational and Applied Mathematics, 235 (8), pp. 2077-2089. [DOI: 10.1016/j.cam.2010.10.006](http://dx.doi.org/10.1016/j.cam.2010.10.006)
+* M.A. Dahlem and T.M. Isele, *Transient localized wave patterns and their application to migraine*, (2013) Journal of Mathematical Neuroscience, 3 (1), pp. 1-28. [DOI: 10.1186/2190-8567-3-7](https://doi.org/10.1186/2190-8567-3-7)
 
-* N. Apreutesei and G. Dimitriu, *On a prey-predator reaction-diffusion system with Holling type III functional response*, (2010) Journal of Computational and Applied Mathematics, 235 (2), pp. 366-379. [DOI: 10.1016/j.cam.2010.05.040](http://dx.doi.org/10.1016/j.cam.2010.05.040)
+* R.M. Bradley and P.D. Shipman, *A surface layer of altered composition can play a key role in nanoscale pattern formation induced by ion bombardment*, (2012) Applied Surface Science, 258 (9), pp. 4161-4170. [DOI: 10.1016/j.apsusc.2011.07.003](https://doi.org/10.1016/j.apsusc.2011.07.003)
+
+* R. Carlson, *Harmonic analysis for star graphs and the spherical coordinate trapezoidal rule*, (2011) Journal of Computational and Applied Mathematics, 235 (8), pp. 2077-2089. [DOI: 10.1016/j.cam.2010.10.006](https://doi.org/10.1016/j.cam.2010.10.006)
+
+* N. Apreutesei and G. Dimitriu, *On a prey-predator reaction-diffusion system with Holling type III functional response*, (2010) Journal of Computational and Applied Mathematics, 235 (2), pp. 366-379. [DOI: 10.1016/j.cam.2010.05.040](https://doi.org/10.1016/j.cam.2010.05.040)
 
 
 
