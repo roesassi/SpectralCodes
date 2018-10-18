@@ -101,7 +101,7 @@ See also the list of [contributors](https://github.com/roesassi/SpectralCodes/co
 
 ## Cited by
 
-The following is an (incomplete) list of the scientific works which employed the codes. A more complete is provided by [Google Scholar](https://scholar.google.com/scholar_lookup?title=Spectral%20algorithms%20for%20reaction-diffusion%20equations&author=RV.%20Craster&author=R.%20Sassi&publication_year=2006).
+The following is an (incomplete) list of the scientific works which employed the codes. A more complete one is provided by [Google Scholar](https://scholar.google.com/scholar_lookup?title=Spectral%20algorithms%20for%20reaction-diffusion%20equations&author=RV.%20Craster&author=R.%20Sassi&publication_year=2006).
 
 * F.C. Motta, R. Neville, P.D. Shipman, D.A. Pearson, R.M. Bradley, *Measures of order for nearly hexagonal lattices*,
 (2018) Physica D: Nonlinear Phenomena, 380-381, pp. 17-30. [DOI: 10.1016/j.physd.2018.05.005](https://doi.org/10.1016/j.physd.2018.05.005)
