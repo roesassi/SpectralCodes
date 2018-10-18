@@ -107,6 +107,8 @@ To the best of our knowledge, the following is an (incomplete) list of the scien
 
 * K.M. Owolabi and K.C. Patidar, *Solution of pattern waves for diffusive fisher-like non-linear equations with adaptive methods*, (2016) International Journal of Nonlinear Sciences and Numerical Simulation, 17 (6), pp. 291-304. [DOI: 10.1515/ijnsns-2015-0173](http://dx.doi.org/10.1515/ijnsns-2015-0173)
 
+* C. Bachmair and E. Schöll, *Nonlocal control of pulse propagation in excitable media*, The European Physical Journal B (2014) 87: 276. [DOI: 10.1140/epjb/e2014-50339-2](http://doi.org/10.1140/epjb/e2014-50339-2)
+
 * K.M. Owolabi and K.C. Patidar, *Higher-order time-stepping methods for time-dependent reaction-diffusion equations arising in biology*, (2014) Applied Mathematics and Computation, 240, pp. 30-50. [DOI: 10.1016/j.amc.2014.04.055](http://dx.doi.org/10.1016/j.amc.2014.04.055)
 
 * K.M. Owolabi and K.C. Patidar, *Numerical solution of singular patterns in one-dimensional Gray-Scott-like models*, (2014) International Journal of Nonlinear Sciences and Numerical Simulation, 15 (7-8), pp. 437-462. [DOI: 10.1515/ijnsns-2013-0124](http://dx.doi.org/10.1515/ijnsns-2013-0124)
